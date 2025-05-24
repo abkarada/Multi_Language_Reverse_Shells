@@ -21,4 +21,8 @@ This repository contains reverse shell scripts written in multiple programming a
 | PowerShell    | `powershell_reverse_shell` | Windows-native reverse shells with options for encoding & AV evasion. |
 | Ruby          | `ruby_reverse_shell`       | TCP-based reverse shell using Ruby sockets. Often used in Metasploit modules. |
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE). Use responsibly and ethically.
+
 ---
